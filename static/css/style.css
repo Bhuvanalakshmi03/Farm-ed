@@ -9,3 +9,21 @@
 .clr2{
     color:green;
 }
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    bottom: 0;
+    right:0;
+    border: 7px solid green;
+    float: right;
+    height: 60%
+  }
